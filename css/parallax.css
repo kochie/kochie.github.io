@@ -10,13 +10,13 @@ section {
 }
 
 .bg-1 {
-    background: url("./images/AirplaneMaker.jpg") no-repeat center top fixed;
+    background: url("images/AirplaneMaker.jpg") no-repeat center top fixed;
     color: gainsboro;
     background-size:cover;
 }
 
 .image-1 {
-    background: url("./images/MoonLanding.jpg") no-repeat center center fixed;
+    background: url("/images/MoonLanding.jpg") no-repeat center center fixed;
     color:#fff;
     background-size:cover;
     height: 400px;
@@ -24,12 +24,12 @@ section {
 }
 
 .middle-jumbotron {
-    background: url("./images/MoonLanding.jpg") no-repeat center center fixed;
+    background: url("/images/MoonLanding.jpg") no-repeat center center fixed;
     background-size:cover;
 }
 
 .bg-2 {
-    background: url("./dist/images/MoonLanding.jpg") no-repeat center center fixed;
+    background: url("/dist/images/MoonLanding.jpg") no-repeat center center fixed;
     background-size:cover;
 }
 
