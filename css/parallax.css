@@ -29,7 +29,7 @@ section {
 }
 
 .bg-2 {
-    background: url("/dist/images/MoonLanding.jpg") no-repeat center center fixed;
+    background: url("/images/MoonLanding.jpg") no-repeat center center fixed;
     background-size:cover;
 }
 
